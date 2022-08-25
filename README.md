@@ -6,7 +6,7 @@
   
   [Spring project](https://github.com/LitaHart/Team12FinalProject) --Team12FinalProject/FinalProject/src/main/java/com/team12/main/team2board/
   
-  https://github.com/hansujin1/Team2_the_cook
+
   
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
