@@ -1,20 +1,47 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>기술 스택</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+        .stack-icon {
+            font-size: 2em;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
 
-  *my stack*😄<br>
-    
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  
-  
-  [first servlet project](https://github.com/hansujin1/Team2_the_cook) <br>
-  
-  [Spring project](https://github.com/LitaHart/Team12FinalProject) --Team12FinalProject/FinalProject/src/main/java/com/team12/main/team2board/
-  
-  
-  https://mangkyu.tistory.com/15
+    <h2>기술 스택</h2>
+
+    <p>
+        <i class="fab fa-html5 stack-icon"></i>
+        <i class="fab fa-css3-alt stack-icon"></i>
+        <i class="fab fa-js stack-icon"></i>
+        <i class="fab fa-js-square stack-icon"></i>
+        <i class="fab fa-java stack-icon"></i>
+        <i class="fab fa-spring stack-icon"></i>
+        <i class="fab fa-spring-stack stack-icon"></i>
+        <i class="fab fa-spring-data stack-icon"></i>
+        <i class="fas fa-shield-alt stack-icon"></i>
+        <i class="fab fa-cloud stack-icon"></i>
+        <i class="fas fa-database stack-icon"></i>
+        <i class="fab fa-mysql stack-icon"></i>
+        <i class="fab fa-oracle stack-icon"></i>
+        <i class="fas fa-atom stack-icon"></i>
+        <i class="fas fa-network-wired stack-icon"></i>
+        <i class="fas fa-server stack-icon"></i>
+        <i class="fab fa-centos stack-icon"></i>
+        <i class="fab fa-git stack-icon"></i>
+        <i class="fab fa-gitlab stack-icon"></i>
+        <i class="fab fa-github stack-icon"></i>
+    </p>
+
+</body>
+</html>
