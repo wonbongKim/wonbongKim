@@ -8,11 +8,10 @@
 
 ## 백엔드
 - Java
+- groovy
 - Spring Boot
-- Spring MVC
 - Spring Data JPA
 - Spring Security
-- Spring Cloud
 - Querydsl
 - MyBatis
 - RESTful API
